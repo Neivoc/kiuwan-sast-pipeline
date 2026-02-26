@@ -1,6 +1,6 @@
 # Kiuwan SAST Pipeline - Pruebas estáticas de seguridad de aplicaciones automatizado
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/jhneira-sol/kiuwan-sast-pipeline/main.yml?branch=main&label=SAST%20Analysis)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Neivoc/kiuwan-sast-pipeline/main.yml?branch=main&label=SAST%20Analysis)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Kiuwan](https://img.shields.io/badge/Kiuwan-SAST-orange)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF)
@@ -154,7 +154,7 @@ KIUWAN_PASSWORD=tu_password_kiuwan
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/jhneira-sol/kiuwan-sast-pipeline.git
+git clone https://github.com/Neivoc/kiuwan-sast-pipeline.git
 cd kiuwan-sast-pipeline
 ```
 
